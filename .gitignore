@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# Data Files
+data/
+
+# Profiling Files
+profiles/
+
+# Binaries
+build/
